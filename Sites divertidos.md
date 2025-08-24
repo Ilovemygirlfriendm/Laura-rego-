@@ -15,4 +15,10 @@ https://memes.casa/
 
 Tem vários memes brasileiros, a mesma coisa do soundbotton só que br.
 
+https://v98.mcraft.fun/
+
+https://prismarine-ismfgtmlq-zaro.vercel.app
+
+Minecraft porem no navegador, obs: laga muito
+
 Se nenhum jogo funcionar basta pesquisar por yandexgames em algum proxy e jogar, mas nem todos jogos funcionam
