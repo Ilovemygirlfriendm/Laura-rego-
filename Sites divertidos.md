@@ -1,6 +1,4 @@
-https://quackprep.org
-
-https://duckmath.org/links/
+https://sites.google.com/view/drive-u-7-home/home
 Tem vários jogos 
 
 https://soundbuttonsworld.com/
