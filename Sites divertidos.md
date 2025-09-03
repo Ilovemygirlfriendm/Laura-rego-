@@ -22,5 +22,10 @@ Minecraft porem no navegador, obs: laga muito
 
 Se nenhum jogo funcionar basta pesquisar por yandexgames em algum proxy e jogar, mas nem todos jogos funcionam
 
+Área dos não testados👇👇👇👇
 https://youtu.be/OHYikOhFdck?si=xbQrhCIE8xNMJJ_H
 Vou testar ainda mas se todos do vídeo funcionar vai ser do caralho
+
+homerwork.artclass.site
+
+NÃO TESTEI AINDA
