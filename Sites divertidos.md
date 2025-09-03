@@ -21,3 +21,6 @@ https://prismarine-ismfgtmlq-zaro.vercel.app
 Minecraft porem no navegador, obs: laga muito
 
 Se nenhum jogo funcionar basta pesquisar por yandexgames em algum proxy e jogar, mas nem todos jogos funcionam
+
+https://youtu.be/OHYikOhFdck?si=xbQrhCIE8xNMJJ_H
+Vou testar ainda mas se todos do vídeo funcionar vai ser do caralho
