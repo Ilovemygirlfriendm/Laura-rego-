@@ -26,6 +26,8 @@ Se nenhum jogo funcionar basta pesquisar por yandexgames em algum proxy e jogar,
 
 https://youtu.be/OHYikOhFdck?si=xbQrhCIE8xNMJJ_H
 https://bop.education/
+
 https://algebra.learnnexus.one/
+
 https://artclass-static.vercel.app/
 
