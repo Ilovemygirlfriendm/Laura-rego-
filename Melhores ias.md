@@ -12,4 +12,6 @@ O yeschatia eu não testei ainda, mas acho que ele funciona.
 
 https://www.hotbot.com/
 
+https://schoolaichatbot.zapier.app/
+
 Se nenhuma ia funcionar e você não achar nenhuma ia basta usar o proxy para acessar as ias bloqueadas.
