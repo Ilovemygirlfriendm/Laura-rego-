@@ -1,31 +1,31 @@
-https://sites.google.com/view/drive-u-7-home/home
-Tem vários jogos 
+Aqui está a versão mais organizada, limpa e bonita do que você me mandou:
 
-https://sites.google.com/view/classroom6x/home?authuser=0
+---
 
-https://soundbuttonsworld.com/
+# 🎮 Links de Jogos e Diversão
 
-Tem vários botões e sons para você colocar e a sala inteira escutar.
+## 🕹️ Jogos Online
 
-Gemidão do whatsapp?
-Só pesquisa whatsapp22 no soundbotton.
-Audio estourado?
-Só pesquisa Ai minha xereca.
+* [Drive U-7](https://sites.google.com/view/drive-u-7-home/home) → Vários jogos disponíveis.
+* [Classroom 6X](https://sites.google.com/view/classroom6x/home?authuser=0) → Biblioteca de jogos online.
+* [Minecraft no Navegador](https://v98.mcraft.fun/) → Jogue direto no navegador (⚠️ pode travar bastante).
+* [Minecraft (versão alternativa)](https://prismarine-ismfgtmlq-zaro.vercel.app) → Outra opção de Minecraft online.
 
-https://memes.casa/
+💡 **Dica:** Se nenhum jogo funcionar, pesquise **Yandex Games** em algum proxy e jogue por lá (mas nem todos funcionam).
 
-Tem vários memes brasileiros, a mesma coisa do soundbotton só que br.
+---
 
-https://v98.mcraft.fun/
+## 🔊 Botões de Sons & Memes
 
-https://prismarine-ismfgtmlq-zaro.vercel.app
+* [Sound Buttons World](https://soundbuttonsworld.com/) → Sons engraçados para trollar na sala.
 
-Minecraft porem no navegador, obs: laga muito
+  * **Gemidão do WhatsApp:** pesquise `whatsapp22`.
+  * **Áudio estourado:** pesquise `Ai minha xereca`.
+* [Memes.casa](https://memes.casa/) → Vários memes BR, funciona igual ao Sound Buttons mas focado em brasileiros.
 
-Se nenhum jogo funcionar basta pesquisar por yandexgames em algum proxy e jogar, mas nem todos jogos funcionam
+---
 
-Área dos não testados👇👇👇👇
+## ❓ Área dos Não Testados
 
+* [Lista no GitHub](https://gist.github.com/eddy-22/2cdfadfa539cdaccfd0a9e31bf98e6d6)
 
-
-https://gist.github.com/eddy-22/2cdfadfa539cdaccfd0a9e31bf98e6d6
