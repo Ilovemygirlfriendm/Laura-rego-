@@ -1,9 +1,6 @@
-Beleza — escrevi isso direto pra você, em **segunda pessoa**, organizado e claro:
 
----
 
-# 🤖 IAs que você mencionou (versão direta pra colar)
-
+                             # 🤖 IAs
 * A escola costuma bloquear URLs que tenham **“ia”** no endereço (ex.: `www.ia.com`).
   Então prioriza serviços que **não mostrem “ia” no domínio** ou que se apresentem como “ajuda de estudo”.
 
