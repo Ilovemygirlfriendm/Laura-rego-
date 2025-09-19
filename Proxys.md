@@ -15,7 +15,7 @@ Perfeito — organizei e deixei mais bonito e claro o que você mandou, sem acre
   O recurso *unblockwebsites* do Kadama age como um proxy disfarçado (o URL não contém palavras “óbvias” como `proxy`, `vpn`, `ia`, etc.), o que pode reduzir a chance de bloqueio por palavra-chave.
 
 * **PrivacyWall** — [https://www.privacywall.org](https://www.privacywall.org)
-  Ainda não totalmente testado por você, mas funciona de forma parecida com o Startpage (busca com foco em privacidade).
+  Ainda não totalmente testado por mim, mas funciona de forma parecida com o Startpage (busca com foco em privacidade).
 
 ---
 
