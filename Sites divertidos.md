@@ -24,12 +24,4 @@ Se nenhum jogo funcionar basta pesquisar por yandexgames em algum proxy e jogar,
 
 Área dos não testados👇👇👇👇
 
-https://youtu.be/OHYikOhFdck?si=xbQrhCIE8xNMJJ_H
-https://bop.education/
-
-https://algebra.learnnexus.one/
-
-https://artclass-static.vercel.app/
-
-https://sturdy-enigma-pjq9xrjqwpxgc6r66-2345.app.github.dev/materials
-
+https://gist.github.com/eddy-22/2cdfadfa539cdaccfd0a9e31bf98e6d6
