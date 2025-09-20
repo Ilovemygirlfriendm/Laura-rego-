@@ -14,10 +14,8 @@
 * **School AI Chatbot (Zapier)** — [https://schoolaichatbot.zapier.app/](https://schoolaichatbot.zapier.app/)
   Bot via Zapier — tenta e anota se funciona.
 
-* **Pesquisa Google** 
-  Usa buscas genéricas pra achar alternativas exemplo:
-unbloked school ia
-
+* **Google lents** 
+  O google lents escaneia as imagems eo textos
 ---
 
 # ⚠️ Se nada abrir
