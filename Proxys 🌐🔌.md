@@ -19,7 +19,7 @@ Perfeito — organizei e deixei mais bonito e claro o que você mandou, sem acre
 
   * **Tablock** O tab clock serve para modificar a foto e do nome da guia que você está, exemplo, você abre a guia de um jogo mas aparece a logo do google
   
-javascript:(function() {var l = document.querySelector("link[rel*='icon']") || document.createElement('link'); l.type = 'image/x-icon';l.rel = 'shortcut icon';l.href = 'https://www.google.com/favicon.ico'; document.getElementsByTagName('head')[0].appendChild(l); document.title = 'Google';})();
+javascript:(function() {   var l = document.querySelector("link[rel*='icon']") || document.createElement('link');   l.type = 'image/x-icon';   l.rel = 'shortcut icon';   l.href = 'https://edusp-static.ip.tv/sala-do-futuro Aluno/conteudo_logo.png';   document.getElementsByTagName('head')[0].appendChild(l);   document.title = 'Google'; })();
 ---
 
 ## 🧭 Como achar proxys (dica de busca)
