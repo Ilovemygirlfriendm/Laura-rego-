@@ -21,6 +21,9 @@ Perfeito — organizei e deixei mais bonito e claro o que você mandou, sem acre
   
 javascript:(function() { var l = document.querySelector("link[rel*='icon']") || document.createElement('link'); l.type = 'image/x-icon'; l.rel = 'shortcut icon'; l.href = 'https://edusp-static.ip.tv/sala-do-futuro/conteudo_logo.png'; document.getElementsByTagName('head')[0].appendChild(l); document.title = 'Sala do Futuro Aluno'; })();
 
+https://sites.google.com/view/universalunblocking/home?authuser=0
+
+
 ## 🧭 Como achar proxys (dica de busca)
 
 * Pesquise por termos como **“Anonimus search”** (ou em português: **pesquisa anônima**).
