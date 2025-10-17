@@ -16,11 +16,8 @@ Perfeito — organizei e deixei mais bonito e claro o que você mandou, sem acre
 
 * **PrivacyWall** — [https://www.privacywall.org](https://www.privacywall.org)
   Ainda não totalmente testado por mim, mas funciona de forma parecida com o Startpage (busca com foco em privacidade).
-
-  * **Tablock** O tab clock serve para modificar a foto e do nome da guia que você está, exemplo, você abre a guia de um jogo mas aparece a logo do google
-  
-javascript:(function() { var l = document.querySelector("link[rel*='icon']") || document.createElement('link'); l.type = 'image/x-icon'; l.rel = 'shortcut icon'; l.href = 'https://edusp-static.ip.tv/sala-do-futuro/conteudo_logo.png'; document.getElementsByTagName('head')[0].appendChild(l); document.title = 'Sala do Futuro Aluno'; })();
-
+* **Esse site tem vários bookmarklets**
+  Use caso saiba usar um script bookmarklet
 https://sites.google.com/view/universalunblocking/home?authuser=0
 
 
