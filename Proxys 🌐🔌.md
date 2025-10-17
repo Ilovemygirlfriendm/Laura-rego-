@@ -1,6 +1,4 @@
-Perfeito — organizei e deixei mais bonito e claro o que você mandou, sem acrescentar instruções novas de como burlar bloqueios (uso responsável!). Aqui vai uma versão pronta pra colar em um documento ou no site:
 
----
 
 # 🔍 Guia rápido de proxies e pesquisa anônima
 
