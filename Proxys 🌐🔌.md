@@ -16,7 +16,8 @@
   Ainda não totalmente testado por mim, mas funciona de forma parecida com o Startpage (busca com foco em privacidade).
 * **Esse site tem vários bookmarklets**
   Use caso saiba usar um script bookmarklet
-https://sites.google.com/view/universalunblocking/home?authuser=0
+  [privacywall](https://sites.google.com/view/universalunblocking/home?authuser=0)
+
 
 
 ## 🧭 Como achar proxys (dica de busca)
