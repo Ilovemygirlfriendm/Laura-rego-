@@ -8,3 +8,7 @@ javascript:(function(){function pasteHandler(e){var text='';if(e.clipboardData) 
 * **Edita automaticamente a foto e o nome do site aberto para "Sala do futuro".**.
 
 javascript:(function() { var l = document.querySelector("link[rel*='icon']") || document.createElement('link'); l.type = 'image/x-icon'; l.rel = 'shortcut icon'; l.href = 'https://edusp-static.ip.tv/sala-do-futuro/conteudo_logo.png'; document.getElementsByTagName('head')[0].appendChild(l); document.title = 'Sala do Futuro Aluno'; })();
+
+Vou testar se esse email corporativo da pra logar no chromebook depois de formatar
+
+https://emailestudante.com.br/
