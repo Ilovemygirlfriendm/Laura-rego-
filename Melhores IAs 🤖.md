@@ -20,3 +20,9 @@
 
 # ⚠️ Se nada abrir
 se nenhuma IA funcionar, dá pra usar proxy pra acessar Ias bloqueadas.
+
+
+
+❓ Área dos Não Testados
+* **Brittanica**
+  Uma Enciclopedia que tem uma ia dentro.
