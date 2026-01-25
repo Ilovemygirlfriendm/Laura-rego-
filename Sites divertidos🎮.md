@@ -27,6 +27,6 @@ Aqui está a versão mais organizada, limpa e bonita do que você me mandou:
 
 ## ❓ Área dos Não Testados
 
-* [Lista no GitHub](https://gist.github.com/eddy-22/2cdfadfa539cdaccfd0a9e31bf98e6d6)
 
-* [lista no google docs](https://docs.google.com/document/d/1jB_CbqD-96nFBtytkIaPkz5fSajvmFidQ1J0QCvoYjo/edit?tab=t.0)
+
+* [B central](https://sites.google.com/view/bypass-central/home)
