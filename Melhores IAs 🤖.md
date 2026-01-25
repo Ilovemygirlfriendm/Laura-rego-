@@ -14,8 +14,8 @@
 * **School AI Chatbot (Zapier)** — [https://schoolaichatbot.zapier.app/](https://schoolaichatbot.zapier.app/)
   Bot via Zapier — tenta e anota se funciona.
 
-* **Google lents** 
-  O google lents escaneia as imagems eo textos
+* **Google lens** 
+  O google lens escaneia  imagens e textos e dando a resposta
 ---
 
 # ⚠️ Se nada abrir
