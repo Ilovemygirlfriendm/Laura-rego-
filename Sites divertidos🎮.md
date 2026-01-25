@@ -29,4 +29,4 @@ Aqui está a versão mais organizada, limpa e bonita do que você me mandou:
 
 
 
-* [B central](https://sites.google.com/view/bypass-central/home)
+* [B central](Inserir texto)
