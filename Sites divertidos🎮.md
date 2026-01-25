@@ -30,3 +30,7 @@ Aqui está a versão mais organizada, limpa e bonita do que você me mandou:
 
 
 * [B central](Inserir texto)
+
+
+## ❓ Sites que passam pelo bloqueio da escola
+[B central](https://sites.google.com/view/bypass-central/home)
