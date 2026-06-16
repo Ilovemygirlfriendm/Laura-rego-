@@ -25,4 +25,7 @@ se nenhuma IA funcionar, dá pra usar proxy pra acessar Ias bloqueadas.
 * **You.com** — [You ia](https://you.com/?chatMode=default/)
   Uma ia que não se entitula ia na url, deve passsar pelo bloqueio — tenta e anota se funciona.
 
+  * **Energent** — [Energent](https://app.energent.ai//)
+  Uma ia que não se entitula ia na url, deve passsar pelo bloqueio — e tem um login que passa dos bloqueios.
+
 ❓ Área dos Não Testados
