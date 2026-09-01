@@ -53,7 +53,7 @@ algebra.brendarosenfeld.com/ abre
 
 reciept.medicfamiliecraiova.ro/ abre
 
-educational.elianum.pl/ abre
+educational.elianum.pl/ funciona so jogo
 
 homes.advantagehomeimprovements.com/ funciona so jogo
 
