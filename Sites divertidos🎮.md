@@ -35,11 +35,7 @@ storage.googleapis.com/luminacore/index.html
 
 storage.googleapis.com/vertexspace/index.html
 
-s3.amazonaws.com/novacraftzone/index.html
-
 s3.amazonaws.com/luminacorehi/index.html
-
-s3.amazonaws.com/vertexspace/index.html
 
 astrocore.thinkbiglearn.college/
 
@@ -57,7 +53,7 @@ pulsex.learnworks.enterprises/
 
 vertexweb.learntoinvest.trade/
 
-lunarnode.smartlearning.solutions/
+lunarnode.smartlearning.solutions/ funciona
 
 vertexcloud.getfree.email/
 
@@ -72,8 +68,6 @@ nexuscraft.learnfaster.support/
 quantumsphere.techforedu.technology/
 
 astrozone.nextgenedu.world/
-
-orionzone.infinitelearn.link/
 
 arcbase.todaycdn.boats/
 
@@ -106,11 +100,9 @@ reciept.medicfamiliecraiova.ro/
 
 educational.elianum.pl/
 
-collect.oneworldcollections.com/
-
 homes.advantagehomeimprovements.com/
 
-science.lincolneducationschools.org/
+science.lincolneducationschools.org/ funciona
 
 
 ## ❓ Sites que passam pelo bloqueio da escola
