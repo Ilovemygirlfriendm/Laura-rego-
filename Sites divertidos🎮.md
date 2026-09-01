@@ -55,7 +55,7 @@ reciept.medicfamiliecraiova.ro/ abre
 
 educational.elianum.pl/ abre
 
-homes.advantagehomeimprovements.com/ abre
+homes.advantagehomeimprovements.com/ funciona so jogo
 
 science.lincolneducationschools.org/ funciona
 
