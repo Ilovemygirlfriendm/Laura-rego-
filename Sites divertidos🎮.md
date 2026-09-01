@@ -73,7 +73,7 @@ echotutoring.cfd/
 
 search.nirbika.com.np/
 
-algebra.brendarosenfeld.com/
+algebra.brendarosenfeld.com/ abre
 
 technology.startechcomputacion.com/
 
@@ -81,7 +81,7 @@ reciept.medicfamiliecraiova.ro/
 
 educational.elianum.pl/
 
-homes.advantagehomeimprovements.com/
+homes.advantagehomeimprovements.com/ abre
 
 science.lincolneducationschools.org/ funciona
 
