@@ -29,57 +29,31 @@ Aqui está a versão mais organizada, limpa e bonita do que você me mandou:
 
 
 
-storage.googleapis.com/lilicraftzone/index.html
+storage.googleapis.com/lilicraftzone/index.html abre
 
-storage.googleapis.com/luminacore/index.html
+storage.googleapis.com/luminacore/index.html abre
 
-storage.googleapis.com/vertexspace/index.html
+storage.googleapis.com/vertexspace/index.html abre
 
-s3.amazonaws.com/luminacorehi/index.html
+s3.amazonaws.com/luminacorehi/index.html abre
 
-astrocore.thinkbiglearn.college/
-
-fluxsphere.learneveryday.school/
-
-astrowave.neverstop.study/
-
-
-pulsex.learnworks.enterprises/
 
 lunarnode.smartlearning.solutions/ funciona
 
-vertexcloud.getfree.email/
 
-astrocore.learnwith.courses/
-
-solarflow.freelearntoday.space/
-
-phantomflow.futureskills.mom/
-
-quantumsphere.techforedu.technology/
-
-astrozone.nextgenedu.world/
-
-arcbase.todaycdn.boats/
-
-luminabase.codingschool.ink/
-
-astrocore.b-cdn.net/
+astrocore.b-cdn.net/ abre
 
 Bonus:
 exact.granular.com.au/ funciona 
 
-echotutoring.cfd/
 
-search.nirbika.com.np/
+search.nirbika.com.np/ abre
 
 algebra.brendarosenfeld.com/ abre
 
-technology.startechcomputacion.com/
+reciept.medicfamiliecraiova.ro/ abre
 
-reciept.medicfamiliecraiova.ro/
-
-educational.elianum.pl/
+educational.elianum.pl/ abre
 
 homes.advantagehomeimprovements.com/ abre
 
