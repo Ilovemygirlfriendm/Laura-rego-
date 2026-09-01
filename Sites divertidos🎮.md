@@ -43,15 +43,8 @@ fluxsphere.learneveryday.school/
 
 astrowave.neverstop.study/
 
-solartech.studyguide.wiki/
-
-pulsehub.learningplatform.reviews/
-
-apexnet.dailylearn.onl/
 
 pulsex.learnworks.enterprises/
-
-vertexweb.learntoinvest.trade/
 
 lunarnode.smartlearning.solutions/ funciona
 
@@ -63,30 +56,18 @@ solarflow.freelearntoday.space/
 
 phantomflow.futureskills.mom/
 
-nexuscraft.learnfaster.support/
-
 quantumsphere.techforedu.technology/
 
 astrozone.nextgenedu.world/
 
 arcbase.todaycdn.boats/
 
-quantumnode.mathtutorial.help/
-
 luminabase.codingschool.ink/
-
-echotech.minicdn.rest/
-
-phantomcore.minicdn.store/
 
 astrocore.b-cdn.net/
 
-fluxsphere.b-cdn.net/
-
 Bonus:
-exact.granular.com.au/
-
-light.liujiaje.com/
+exact.granular.com.au/ funciona 
 
 echotutoring.cfd/
 
